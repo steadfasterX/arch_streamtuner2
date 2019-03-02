@@ -10,7 +10,7 @@ license=('custom')
 depends=('python2' 'pygtk' 'python2-xdg' 'python2-pillow' 'python2-keybinder2' 'python2-lxml' 'python2-cssselect' 'python2-pyquery' 'python2-requests')
 makedepends=('libarchive')
 source=("http://milki.include-once.org/streamtuner2/streamtuner2-2.2.1.bin.txz")
-md5sums=('SKIP')
+md5sums=('fa56c1f8a78c9a63b7bbb99175f85d4e')
 
 package() {
   # python2 fix
